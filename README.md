@@ -1,6 +1,8 @@
 ## Hi there :sunglasses:
 
-- I’m currently learning JavaScript, C#, GitHub, Git and Visual Studio 2022.
+- I’m currently learning JavaScript, C#, GitHub, Git, VS Code and Visual Studio 2022.
+
+City & Guilds certified some decades ago in C (L1 & L2) and C++;
 
 I like these emojis and suspect some of them might come in useful...
 
