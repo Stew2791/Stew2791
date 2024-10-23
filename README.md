@@ -4,10 +4,10 @@
 
 Likes these emojis, suspects they might come in useful...
 
-:smiley: :heart_eyes_cat: :sunflower: :icecream: 
-:love_hotel: :zap: :dart: :warning: 
-:radioactive: :white_check_mark: :ab: :pirate_flag: 
-:gb: :electron: :suspect:
+<br> :smiley: :heart_eyes_cat: :sunflower: :icecream: 
+<br> :love_hotel: :zap: :dart: :warning: 
+<br> :radioactive: :white_check_mark: :ab: :pirate_flag: 
+<br> :gb: :electron: :suspect: :accessibility:	:atom:
  
 
 <!--
