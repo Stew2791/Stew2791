@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning JavaScript, C#, GitHub and Git.
+
 :smiley:  :heart_eyes_cat:  :sunflower:
  
 
