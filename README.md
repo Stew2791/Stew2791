@@ -1,6 +1,6 @@
 ## Hi there :sunglasses:
 
-- :blossom: I’m currently learning JavaScript, C#, GitHub, Git and Visual Studio 2022.
+- :cake: I’m currently learning JavaScript, C#, GitHub, Git and Visual Studio 2022.
 
 I like these emojis, suspect they might come in useful...
 
