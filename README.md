@@ -2,8 +2,7 @@
 
 - I’m currently learning JavaScript, C#, GitHub, Git, VS Code and Visual Studio 2022.
 - I am City & Guilds certified (back in the 90's) in C (L1 & L2) and C++;
-
-I like these emojis and suspect some of them might come in useful...
+- I like these emojis and suspect some of them might come in useful...
 
 <br> :smiley: :star_struck: :heart_eyes: :sunglasses: :heart_eyes_cat: :sunflower: :icecream: :sparkling_heart: :love_hotel: :zap: :dart: :warning: :radioactive: :white_check_mark: :ab: :pirate_flag: 
 <br> :gb: :electron: :suspect: :accessibility: :atom: :zzz: :chicken: :parrot: :sunflower: :blossom: :seedling: :mushroom: :cake: :house: :hospital: :timer_clock: 
