@@ -4,10 +4,8 @@
 
 I like these emojis, suspect they might come in useful...
 
-<br> :smiley: :star_struck: :heart_eyes: :sunglasses: :heart_eyes_cat: :sunflower: :icecream: :sparkling_heart:
-<br> :love_hotel: :zap: :dart: :warning: :radioactive: :white_check_mark: :ab: :pirate_flag: 
-<br> :gb: :electron: :suspect: :accessibility: :atom: :zzz: :chicken: :parrot:
-<br> :sunflower: :blossom: :seedling: :mushroom: :cake: :house: :hospital: :timer_clock: 
+<br> :smiley: :star_struck: :heart_eyes: :sunglasses: :heart_eyes_cat: :sunflower: :icecream: :sparkling_heart: :love_hotel: :zap: :dart: :warning: :radioactive: :white_check_mark: :ab: :pirate_flag: 
+<br> :gb: :electron: :suspect: :accessibility: :atom: :zzz: :chicken: :parrot: :sunflower: :blossom: :seedling: :mushroom: :cake: :house: :hospital: :timer_clock: 
 
 <!--
 **Stew2791/Stew2791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
