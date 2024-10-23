@@ -1,4 +1,4 @@
-## Hi there, I'm Stewart! :sunglasses:
+## Hi there, I am Stewart! :sunglasses:
 
 - I’m currently learning JavaScript, C#, GitHub, Git, VS Code and Visual Studio 2022.
 - I am City & Guilds certified in C (L1 & L2) and C++ (trained on Borland Turbo C++, way back in the 1990's).
