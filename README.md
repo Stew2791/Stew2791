@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning JavaScript, C#, GitHub and Git.
 
-:smiley:  :heart_eyes_cat:  :sunflower:  :icecream:  :love_hotel:  :zap:  :dart:  :warning:  :radioactive:  :white_check_mark:  :ab:  :pirate_flag:
+:smiley:  :heart_eyes_cat:  :sunflower:  :icecream:  :love_hotel:  :zap:  :dart:  :warning:  :radioactive:  :white_check_mark:  :ab:  :pirate_flag:  :gb:  :electron:
  
 
 <!--
