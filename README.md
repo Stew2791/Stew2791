@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning JavaScript, C#, GitHub and Git.
 
-Likes these emojis...
+Likes these emojis, suspects they might come in useful...
 
 :smiley:  :heart_eyes_cat:  :sunflower:  :icecream:  :love_hotel:  :zap:  :dart:  :warning:  :radioactive:  :white_check_mark:  :ab:  :pirate_flag:  :gb:  :electron:
  
