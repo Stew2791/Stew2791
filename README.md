@@ -3,6 +3,7 @@
 - I’m currently learning JavaScript, C#, GitHub, Git, VS Code and Visual Studio 2022.
 - I am City & Guilds certified (back in the 1990's) in C (L1 & L2) and C++ (trained on Borland Turbo C++).
 - I grew up in the 1970's/1980's and have owned at least one computer since 1982. 
+- I enjoy solving complex problems in elegant ways, slowly, properly over time.
 - I like these emojis and suspect some of them might come in useful...
 
 <br> :smiley: :star_struck: :heart_eyes: :sunglasses: :heart_eyes_cat: :sunflower: :icecream: :sparkling_heart: :love_hotel: :zap: :dart: :warning: :radioactive: :white_check_mark: :ab: :pirate_flag: 
