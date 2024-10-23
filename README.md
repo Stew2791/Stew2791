@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning JavaScript, C#, GitHub and Git. :smiley:  :heart_eyes_cat:  :sunflower:
-
+- 🌱 I’m currently learning JavaScript, C#, GitHub and Git.
 - :smiley:  :heart_eyes_cat:  :sunflower:
-:smiley:  :heart_eyes_cat:  :sunflower:
-:smiley:  :heart_eyes_cat:  :sunflower:
-:smiley:  :heart_eyes_cat:  :sunflower:
+ 
 
 <!--
 **Stew2791/Stew2791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
