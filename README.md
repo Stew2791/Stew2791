@@ -2,7 +2,7 @@
 
 - :blossom: I’m currently learning JavaScript, C#, GitHub, Git and Microsoft Visual Studio 2022.
 
-Likes these emojis, suspects they might come in useful...
+I like these emojis, suspect they might come in useful...
 
 <br> :smiley: :star_struck: :heart_eyes: :sunglasses: :heart_eyes_cat: :sunflower: :icecream: :sparkling_heart:
 <br> :love_hotel: :zap: :dart: :warning: :radioactive: :white_check_mark: :ab: :pirate_flag: 
