@@ -4,12 +4,10 @@
 
 Likes these emojis, suspects they might come in useful...
 
-<br> :smiley: :star_struck: :heart_eyes: :sunglasses: 
-<br> :heart_eyes_cat: :sunflower: :icecream: :sparkling_heart:
-<br> :love_hotel: :zap: :dart: :warning: 
-<br> :radioactive: :white_check_mark: :ab: :pirate_flag: 
-<br> :gb: :electron: :suspect: :accessibility:	
-<br> :atom: :zzz: :chicken: :parrot:
+<br> :smiley: :star_struck: :heart_eyes: :sunglasses: :heart_eyes_cat: :sunflower: :icecream: :sparkling_heart:
+<br> :love_hotel: :zap: :dart: :warning: :radioactive: :white_check_mark: :ab: :pirate_flag: 
+<br> :gb: :electron: :suspect: :accessibility: :atom: :zzz: :chicken: :parrot:
+<br> :sunflower: :blossom: :seedling: :mushroom: :cake: :house: :hospital: :timer_clock:
  
 
 <!--
